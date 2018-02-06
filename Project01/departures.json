@@ -1,0 +1,184 @@
+{
+"departures": [
+    {
+      "slot" : 1,
+      "time": 1500,
+      "airdryer": 2
+    	},
+    {
+      "slot" : 2,
+      "time": 1505,
+      "airdryer": 1
+		},
+    {
+      "slot" : 3,
+      "time": 1510,
+      "airdryer": 1
+		},
+    {
+      "slot" : 4,
+      "time": 1515,
+      "airdryer": 3
+		},
+    {
+      "slot" : 5,
+	  "time": 1520,
+      "airdryer": 1
+		},
+    {
+      "slot" : 6,
+	  "time": 1525,
+      "airdryer": 2
+		},
+    {
+      "slot" : 7,
+	  "time": 1530,
+      "airdryer": 1
+		},
+    {
+      "slot" : 8,
+	  "time": 1535,
+      "airdryer": 1
+		},
+    {
+      "slot" : 9,
+	  "time": 1540,
+      "airdryer": 2
+		},
+		{
+      "slot" : 10,
+	  "time": 1545,
+      "airdryer": 1
+		},
+    {
+      "slot" : 11,
+	  "time": 1550,
+      "airdryer": 0
+		},
+    {
+      "slot" : 12,
+	  "time": 1555,
+      "airdryer": 1
+		},
+    {
+      "slot" : 13,
+	  "time": 1600,
+      "airdryer": 3
+		},
+    {
+      "slot" : 14,
+	  "time": 1605,
+      "airdryer": 1
+		},
+    {
+      "slot" : 15,
+	  "time": 1610,
+      "airdryer": 1
+		},
+    {
+      "slot" : 16,
+	  "time": 1615,
+      "airdryer": 2
+		},
+    {
+      "slot" : 17,
+	  "time": 1620,
+      "airdryer": 1
+		},
+    {
+      "slot" : 18,
+	  "time": 1625,
+      "airdryer": 1
+		},
+    {
+      "slot" : 19,
+	  "time": 1630,
+      "airdryer": 3
+		},
+    {
+      "slot" : 20,
+	  "time": 1635,
+      "airdryer": 1
+		},
+    {
+      "slot" : 21,
+	  "time": 1640,
+      "airdryer": 2
+		},
+    {
+      "slot" : 22,
+	  "time": 1645,
+      "airdryer": 1
+		},
+    {
+      "slot" : 23,
+	  "time": 1650,
+      "airdryer": 1
+		},
+    {
+      "slot" : 24,
+	  "time": 1655,
+	  "airdryer": 3
+		},
+    {
+      "slot" : 25,
+	  "time": 1700,
+      "airdryer": 3
+		},
+    {
+      "slot" : 26,
+	  "time": 1705,
+      "airdryer": 1
+		},
+    {
+      "slot" : 27,
+	  "time": 1710,
+      "airdryer": 1
+		},
+    {
+      "slot" : 28,
+	  "time": 1715,
+	  "airdryer": 2
+		},
+    {
+      "slot" : 29,
+	  "time": 1720,
+	  "airdryer": 0
+		},
+    {
+      "slot" : 30,
+	  "time": 1725,
+	  "airdryer": 1
+		},
+    {
+      "slot" : 31,
+	  "time": 1730,
+      "airdryer": 1
+		},
+    {
+      "slot" : 32,
+	  "time": 1735,
+      "airdryer": 1
+		},
+    {
+      "slot" : 33,
+	  "time": 1740,
+      "airdryer": 2
+		},
+    {
+      "slot" : 34,
+	  "time": 1745,
+      "airdryer": 1
+		},
+    {
+      "slot" : 35,
+	  "time": 1750,
+      "airdryer": 1
+		},
+    {
+      "slot" : 36,
+	  "time": 1755,
+      "airdryer": 1
+		}
+  ]
+}
